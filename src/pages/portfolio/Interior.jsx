@@ -4,126 +4,126 @@ import React from "react";
 const Interior = () => {
   // PAGE 1 – Echoes IMAGES
   const echoesImages = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150080/4_owaxck.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150080/6_ju2lm2.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150080/5_jg4sxv.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150085/7_ckqwgn.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036061/4_owaxck_h4dgf4.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036061/6_ju2lm2_das4at.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036063/5_jg4sxv_vpddpx.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036062/7_ckqwgn_okinqp.png",
   ];
 
   // PAGE 2 – Echoes collage
   const echoesCollageImages = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150084/9_kjethx.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036063/9_kjethx_ldfic8.png",
   ];
 
   const planImages = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150084/10_h2okka.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150085/11_sat5x0.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036064/10_h2okka_bdnrh2.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036062/11_sat5x0_v0ccug.png",
   ];
 
   const modelImages = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150086/12_muqok6.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150088/13_mgolmi.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150087/14_wdvo7i.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036065/12_muqok6_kwrwpi.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036063/13_mgolmi_ndzss5.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036063/14_wdvo7i_hbz5hi.png",
   ];
 
   // PAGE 3 – Echoes IMAGES
   const page3Images = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150090/17_mbdxlh.png", // exploded
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150089/18_w2shfa.png", // tall facade
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150088/19_folgcq.png", // GF
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150089/20_oe4maj.png", // FF
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150089/21_udwnof.png", // study lounge
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150091/22_iufgkk.png", // meeting room
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036064/17_mbdxlh_whttl8.png", // exploded
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036064/18_w2shfa_pggwdo.png", // tall facade
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036064/19_folgcq_zfkdwz.png", // GF
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036065/20_oe4maj_qssixx.png", // FF
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036065/21_udwnof_ujmtto.png", // study lounge
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036065/22_iufgkk_owsdd3.png", // meeting room
   ];
 
   // ========== NEXURA IMAGES ==========
 
   // PAGE 1 – Nexura: Modern Wellness (4 images)
   const nexuraIntroImages = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150080/24_m3hgkd.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150080/25_qqp7rs.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150080/26_cv9qso.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150084/27_x0r9o6.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036066/24_m3hgkd_c0ekws.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036066/25_qqp7rs_fjv1yb.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036066/26_cv9qso_iesujx.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036067/27_x0r9o6_wgszny.png",
   ];
 
   // PAGE 2 – Zoning / Sensory / Renders / Plan (6 images)
   const nexuraPage2Images = {
     zoning:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150084/29_ofqyni.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036066/29_ofqyni_s8ehbx.png",
     sensory:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150086/30_sa4ywd.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036067/30_sa4ywd_mlmdki.png",
     waitingRoom:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150087/31_f4z9jw.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036067/31_f4z9jw_kvbfoh.png",
     chamber:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150088/32_xr2fhk.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036067/32_xr2fhk_v8hosm.png",
     floorPlan:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150087/33_urjbsc.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036067/33_urjbsc_k7zz3f.png",
     lounge:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150088/34_xbgvsg.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036068/34_xbgvsg_nbemgr.png",
   };
 
   // PAGE 3 – Sections / Lighting / Logo / Brand (9 images)
   const nexuraPage3Images = {
     sectionBB:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150092/36_hmwhtf.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036068/36_hmwhtf_wz669k.png",
     sectionAA:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150089/37_umvl8i.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036068/37_umvl8i_omxegw.png",
+       studyLounge:
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036069/40_uie53f_cxbc2l.png",
     lightingPlan:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150090/39_bx4yga.png",
-    studyLounge:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150090/40_uie53f.png",
-    podRoom:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150089/38_uopf7f.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036069/39_bx4yga_qijnai.png",
+     podRoom:
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036068/38_uopf7f_gsz9sm.png",
     logoFrame:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150090/41_m548u7.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036069/41_m548u7_fkbhbk.png",
     tshirt:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150091/42_pohtvv.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036069/42_pohtvv_qn7hpc.png",
     venn:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150091/43_ea8uiy.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036069/43_ea8uiy_la9csi.png",
     benefitsStack:
-      "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150091/44_rucvkm.png",
+      "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036070/44_rucvkm_yl0pds.png",
   };
 
   // ========== HAVEN HOUSE IMAGES ==========
 
   /* ---------- PAGE 1: Haven House Collage IMAGES ---------- */
   const havenHouseCollageImages = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150093/46_ri86eq.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150093/47_m9ufik.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150094/48_rmlezi.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036070/46_ri86eq_p1yaeq.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036072/47_m9ufik_kvdflm.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036072/48_rmlezi_bqs6xq.png",
   ];
 
   /* ---------- PAGE 2 IMAGES ---------- */
   const groundFloorPlan =
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150095/50_h6dini.png";
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036070/50_h6dini_yaufse.png";
   const firstFloorPlan =
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150096/55_iqser8.png";
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036073/55_iqser8_fk0dvt.png";
   const spatialCollageImages = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150095/51_cdnclf.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036072/51_cdnclf_ug7jnz.png",
   ];
 
   const programMaps = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150096/52_e2zwaz.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150095/53_jddkc5.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150095/54_rhggtz.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036072/52_e2zwaz_qgbaru.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036073/53_jddkc5_urm32v.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036073/54_rhggtz_h90ymt.png",
   ];
 
   /* ---------- PAGE 3 IMAGES ---------- */
   const secondFloorPlan =
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150096/58_mucuqv.png";
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036073/58_mucuqv_o0bwxx.png";
   const crossSectionImage =
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150096/59_iwois2.png";
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036074/59_iwois2_lwtdhn.png";
   const frontElevationImage =
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150096/57_u2cmna.png";
+  "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036074/57_u2cmna_nbplyh.png";
 
   // this image already has all 3 program cubes + text inside
   const programDiagramImages = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150096/60_tzuvjw.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036074/60_tzuvjw_b5mgam.png",
   ];
 
   const sculptureImages = [
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150097/61_phctek.png",
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150097/62_astvav.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036074/61_phctek_v0ksfd.png",
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036074/62_astvav_c9ekpu.png",
   ];
 
   return (

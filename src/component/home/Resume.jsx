@@ -2,7 +2,7 @@ import React from "react";
 
 
 const RESUME_URL =
-  "https://drive.google.com/file/d/1TYPc_5f_75XC_Kmr_hQqP9RBxGqkfb6q"; 
+  "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775105970/Rehaan_Tuli_-_Resume_e90qqe_t3jjaq_page-0001_syq1t7.jpg"; 
 
 const Resume = () => {
   return (
@@ -11,7 +11,7 @@ const Resume = () => {
         {/* Left Side - Image */}
         <div className="w-full h-full flex items-center justify-center ">
           <img
-            src={'https://res.cloudinary.com/dp5koojwa/image/upload/v1764150095/51_cdnclf.png'}
+            src={'https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036072/51_cdnclf_ug7jnz.png'}
             alt="Profile"
             className="w-full h-auto "
           />

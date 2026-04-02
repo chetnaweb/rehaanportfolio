@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   const profileImage =
-    "https://res.cloudinary.com/dp5koojwa/image/upload/v1764150086/3_kdz0zl.png"; 
+    "https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036062/3_kdz0zl_eqmxtj.png"; 
 
   return (
     <section className="w-full min-h-screen bg-[#e6d0b6] flex justify-center px-4 py-10">

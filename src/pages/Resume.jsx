@@ -8,7 +8,7 @@ const Resume = () => {
         {/* Left Side - Image */}
         <div className="w-full h-full flex items-center justify-center ">
           <img
-            src={'https://res.cloudinary.com/dp5koojwa/image/upload/v1764150095/51_cdnclf.png'}
+            src={'https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036072/51_cdnclf_ug7jnz.png'}
             alt="Profile"
             className="w-full h-auto "
           />

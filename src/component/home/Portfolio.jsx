@@ -14,7 +14,7 @@ const Portfolio = () => {
           {/* Item 1 */}
           <div className="bg-white shadow-lg rounded-lg overflow-hidden">
             <img
-              src={"https://res.cloudinary.com/dp5koojwa/image/upload/v1764150089/21_udwnof.png"}
+              src={"https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036065/21_udwnof_ujmtto.png"}
               alt="Portfolio work 1"
               className="w-full h-56 object-cover"
             />
@@ -23,7 +23,7 @@ const Portfolio = () => {
           {/* Item 2 */}
           <div className="bg-white shadow-lg rounded-lg overflow-hidden">
             <img
-              src={"https://res.cloudinary.com/dp5koojwa/image/upload/v1764150088/13_mgolmi.png"}
+              src={"https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036063/13_mgolmi_ndzss5.png"}
               alt="Portfolio work 2"
               className="w-full h-56 object-cover"
             />
@@ -32,7 +32,7 @@ const Portfolio = () => {
           {/* Item 3 */}
           <div className="bg-white shadow-lg rounded-lg overflow-hidden">
             <img
-              src={"https://res.cloudinary.com/dp5koojwa/image/upload/v1764150087/14_wdvo7i.png"}
+              src={"https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036063/14_wdvo7i_hbz5hi.png"}
               alt="Portfolio work 3"
               className="w-full h-56 object-cover"
             />
@@ -41,7 +41,7 @@ const Portfolio = () => {
           {/* Item 4 */}
           <div className="bg-white shadow-lg rounded-lg overflow-hidden">
             <img
-              src={"https://res.cloudinary.com/dp5koojwa/image/upload/v1764150086/12_muqok6.png"}
+              src={"https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036065/12_muqok6_kwrwpi.png"}
               alt="Portfolio work 4"
               className="w-full h-56 object-cover"
             />

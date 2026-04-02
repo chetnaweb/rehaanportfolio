@@ -43,7 +43,7 @@ const Contact = () => {
         {/* Right Side */}
         <div className="flex-1 relative w-full flex justify-center">
           <img
-            src={"https://res.cloudinary.com/dp5koojwa/image/upload/v1764150086/3_kdz0zl.png"}
+            src={"https://res.cloudinary.com/dbkji7rbd/image/upload/v1775036062/3_kdz0zl_eqmxtj.png"}
             alt="Contact"
             className="w-80 h-auto object-cover shadow-md"
           />
